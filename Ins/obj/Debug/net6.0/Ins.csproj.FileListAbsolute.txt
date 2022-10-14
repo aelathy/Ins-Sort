@@ -1,0 +1,15 @@
+F:\CS30\Ins\bin\Debug\net6.0\Ins.exe
+F:\CS30\Ins\bin\Debug\net6.0\Ins.deps.json
+F:\CS30\Ins\bin\Debug\net6.0\Ins.runtimeconfig.json
+F:\CS30\Ins\bin\Debug\net6.0\Ins.dll
+F:\CS30\Ins\bin\Debug\net6.0\Ins.pdb
+F:\CS30\Ins\obj\Debug\net6.0\Ins.csproj.AssemblyReference.cache
+F:\CS30\Ins\obj\Debug\net6.0\Ins.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Ins\obj\Debug\net6.0\Ins.AssemblyInfoInputs.cache
+F:\CS30\Ins\obj\Debug\net6.0\Ins.AssemblyInfo.cs
+F:\CS30\Ins\obj\Debug\net6.0\Ins.csproj.CoreCompileInputs.cache
+F:\CS30\Ins\obj\Debug\net6.0\Ins.dll
+F:\CS30\Ins\obj\Debug\net6.0\refint\Ins.dll
+F:\CS30\Ins\obj\Debug\net6.0\Ins.pdb
+F:\CS30\Ins\obj\Debug\net6.0\Ins.genruntimeconfig.cache
+F:\CS30\Ins\obj\Debug\net6.0\ref\Ins.dll
